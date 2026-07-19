@@ -1,6 +1,5 @@
 LICENSE
 Author: Wh33zy
-Date: 2026
 
 Official downloads are available only on Modrinth and Planet Minecraft. If you downloaded this pack from any other website, it may be outdated, modified, or distributed without my permission.
 
