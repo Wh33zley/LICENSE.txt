@@ -19,5 +19,5 @@ You may not:
 - Use this pack for commercial purposes, including selling it, placing it behind a paywall, or distributing it through servers using premium currencies.
 
 If you would like to use this pack in any other way, please contact me:
-- Planet Minecraft: https://www.planetminecraft.com/member/wh33zy/
-- Discord: wh33zy.br33zy
+- Planet Minecraft: https://www.planetminecraft.com/member/wh33zley/
+- Discord: i.s.wh33zley
